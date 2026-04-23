@@ -28,10 +28,10 @@ data = [{
     'text': hover_texts,
     'marker': {
         'size': [5*mag for mag in mags],
-    'color': mags,
-    'colorscale': 'Blackbody',
-    'reversescale': True,
-    'colorbar': {'title': 'Magnitude'},
+        'color': mags,
+        'colorscale': 'Blackbody',
+        'reversescale': True,
+        'colorbar': {'title': 'Magnitude'},
     },
 }]
 my_layout = Layout(title=title)
