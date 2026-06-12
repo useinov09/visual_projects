@@ -18,6 +18,12 @@ Data visualization and API projects from *Python Crash Course* by Eric Matthes.
 - **GitHub Repos** — fetching and visualizing top Python repositories from GitHub API
 - **Hacker News** — visualizing most-commented articles from Hacker News API
 
+### Visualizations 
+
+![rw.png](work_with_api/screenshots/rw.png)
+![sitka.png](work_with_api/screenshots/sitka.png)
+![repos.png](work_with_api/screenshots/repos.png)
+
 ## Tech Stack
 
 - Python 3
